@@ -1,5 +1,3 @@
-# README
-
 # Ruby on Rails Tutorial sample application in Rails 5
 
 This is the sample application for
